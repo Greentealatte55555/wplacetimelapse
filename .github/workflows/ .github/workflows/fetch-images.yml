@@ -33,6 +33,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           URLS=(
-          "D:\WplacePhotoconverted_Columbina-hypocelestia (2)/1476/949.png"
+          "https://backend.wplace.live/files/s0/tiles//1476/949.png"
           )
           
